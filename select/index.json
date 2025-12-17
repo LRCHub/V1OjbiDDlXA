@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "サンタマリア (ALBUM VER．)",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-17T08:01:21.269633Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サンタマリア - ALBUM VER.",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_サンタマリア_-_ALBUM_VER._Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サンタマリア - ALBUM VER.",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_サンタマリア_-_ALBUM_VER._米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サンタマリア",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/03_サンタマリア_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サンタマリア",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/04_サンタマリア_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サンタマリア",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/05_サンタマリア_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サンタマリア (ALBUM VER.)",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/06_サンタマリア_(ALBUM_VER.)_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サンタマリア - ALBUM VER．",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/07_サンタマリア_-_ALBUM_VER._Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サンタマリア (ALBUM VER．)",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/08_サンタマリア_(ALBUM_VER.)_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サンタマリア",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/09_サンタマリア_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サンタマリア",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/10_サンタマリア_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "サンタマリア / Santa Maria (ALBUM VER.)",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/11_サンタマリア___Santa_Maria_(ALBUM_VER.)_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Santa Maria [サンタマリア]",
+      "artist": "Kenshi Yonezu [米津玄師]",
+      "has_synced": true,
+      "path": "select/12_Santa_Maria_[サンタマリア]_Kenshi_Yonezu_[米津玄師].lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "サンタマリア - Santa Maria",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/13_サンタマリア_-_Santa_Maria_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サンタマリア",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_サンタマリア_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "サンタマリア (ALBUM VER.)",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_サンタマリア_(ALBUM_VER.)_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "サンタマリア",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_サンタマリア_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "サンタマリア",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_サンタマリア_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "サンタマリア",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_サンタマリア_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "サンタマリア",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_06_サンタマリア_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "サンタマリア",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_07_サンタマリア_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "サンタマリア",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_08_サンタマリア_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "サンタマリア",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_09_サンタマリア_米津玄師.txt"
+    }
+  ]
+}
